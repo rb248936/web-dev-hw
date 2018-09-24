@@ -1,0 +1,16 @@
+# Assignment 2
+
+Briefly describe one way how data travels on the internet.
+Data travels through packets and sometimes is not all together.
+Sometimes the packets come in at different times from different
+places to make up the information. The information is sent in binary codes.
+
+What is the relationship between an IP address and the DNS?
+An IP address is an address for a computer or server. The DNS is used to convert data
+to the address.
+
+What is a cookie?
+Small files stored on a computer
+
+List the the three basic parts of a URL.
+protocol, domain name, path
